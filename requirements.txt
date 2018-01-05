@@ -1,0 +1,5 @@
+Flask==0.12.2
+Flask-Cors==3.0.3
+jsonschema==2.6.0
+urllib3==1.22
+gunicorn==19.7.1
