@@ -1,0 +1,5 @@
+{
+  "name": "Facebook Webhooks Forward",
+  "description": "forwarding facebook webhooks to another url",
+  "repository": "https://github.com/nyan-salmon/fb-webhooks-forward"
+}
